@@ -63,4 +63,4 @@ def condition_method(num):
 def ini(num):
     b= cnt1(num)
     return sum(b)-num
-print condition_method(10000)
+# print condition_method(10000)
