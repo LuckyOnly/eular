@@ -66,12 +66,12 @@ def index2(num):
 def index(S):
     return reduce(operator.mul,S)
     # i = 0
-    # sum = 1
+    # contructor_l = 1
     # while i < len(S):
     #     if S[i]!=1:
-    #         sum *=S[i]
+    #         contructor_l *=S[i]
     #     i +=1
-    # return sum
+    # return contructor_l
 
 def method_counter(num,i):
     counter = 0
