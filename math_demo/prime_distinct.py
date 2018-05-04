@@ -10,3 +10,5 @@ def is_prime(num):
             return False
         i+=1
     return True
+
+print is_prime(3)
